@@ -4,4 +4,4 @@
 * Instructors
 : Eehyun Kim (eehkim@iu.edu), Anne Kavalerchik (akavaler@iu.edu)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anne-kav/wim-2023/HEAD)
+Click here to launch the Jupyter notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anne-kav/wim-2023/HEAD)
